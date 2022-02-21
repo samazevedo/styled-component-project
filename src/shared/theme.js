@@ -1,11 +1,10 @@
 export const theme = {
     colors: {
-        header: '#fdff7a',
+        header: '#EE91D2',
         body: '#fafafa',
         footer: '#003333',
-        button: '#fdff7a',
-        button2: '#FFFFFF',
-        text: '#3B3A3A',
+        button: '#38D6F1',
+        text: '#fff',
     },
     fontSizes: {},
 }
